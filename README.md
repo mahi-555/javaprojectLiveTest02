@@ -7,25 +7,25 @@ A web-based mathematical game built with Java Servlet, JSP and JDBC (MySQL). The
 
 📑 **Table of Contents**
 
-Author
-Project Objectives
-Features
-Technologies Used
-Software Requirements
-Project Structure
-System Architecture
-Mathematical Functions
-Game Rules and Scoring
-Database Configuration
-Steps to Run the Application
-Welcome Page
-Game Page
-Result Page
-Leaderboard
-Database Table
-Testing and Validation
-Troubleshooting
-GitHub Project Directory Link
+1.Author
+2.Project Objectives
+3.Features
+4.Technologies Used
+5.Software Requirements
+6.Project Structure
+7.System Architecture
+8.Mathematical Functions
+9.Game Rules and Scoring
+10.Database Configuration
+11.Steps to Run the Application
+12.Welcome Page
+13.Game Page
+14.Result Page
+15.Leaderboard
+16.Database Table
+17.Testing and Validation
+18.Troubleshooting
+19.GitHub Project Directory Link
 
 1. **Author**
 Name	**Monira Akter Mahin**
