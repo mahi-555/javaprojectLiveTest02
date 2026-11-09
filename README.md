@@ -1,10 +1,12 @@
 
-🎯 MONIRA MAHIN – MATH WHIZ
+🎯 **MONIRA MAHIN** -**MATH WHIZ**
+
 Java Servlet MySQL Tomcat Maven
 
 A web-based mathematical game built with Java Servlet, JSP and JDBC (MySQL). The player enters a name, answers four questions (prime, modulus, two trigonometry), sees the final score, and the best scores appear on a Top 10 leaderboard. Every answer is calculated by Java methods, never stored manually.
 
-📑 Table of Contents
+📑 **Table of Contents**
+
 Author
 Project Objectives
 Features
@@ -24,24 +26,29 @@ Database Table
 Testing and Validation
 Troubleshooting
 GitHub Project Directory Link
-1. Author
-Name	Monira Akter Mahin
+
+1. **Author**
+Name	**Monira Akter Mahin**
 Student ID	IT24017
 Department	Information and Communication Technology (ICT)
 University	Mawlana Bhashani Science and Technology University (MBSTU)
-Supervised By
-Dr. Ziaur Rahman
+
+**Supervised By**
+**Dr. Ziaur Rahman**
 Professor
 Department of ICT, MBSTU
 
-2. Project Objectives
+**2. Project Objectives**
+
 Build reusable Java methods for mathematical calculations.
 Calculate every answer in Java instead of using stored answers.
 Handle requests and responses with a Servlet and JSP pages.
 Save and read data with JDBC PreparedStatement.
 Show the ten highest scores in a leaderboard.
 Document and submit a complete project on GitHub.
-3. Features
+
+**3. Features**
+
 Four generated questions per game: Prime, Modulus, Trigonometry, Trigonometry.
 Random questions each time; the two trigonometry questions use different functions.
 Server-side answer checking with input validation and a decimal tolerance.
@@ -50,7 +57,9 @@ Scores saved with player name, score, difficulty and date/time.
 Top 10 leaderboard sorted by score, then earlier time.
 HTML-escaped output to prevent XSS, and PreparedStatement to prevent SQL injection.
 Unit tests for all mathematical methods.
-4. Technologies Used
+
+**4. Technologies Used**
+
 Layer	Technology
 Language	Java 17
 Web	Jakarta Servlet 6, JSP
@@ -59,12 +68,16 @@ Server	Apache Tomcat 10.1
 Build	Maven
 Frontend	HTML5, CSS3
 Testing	JUnit 5
-5. Software Requirements
+
+**5. Software Requirements**
+
 JDK 17 or newer
 Apache Tomcat 10.1+ (uses the jakarta.* namespace)
 MySQL Server 8+
 Maven 3.8+ (or IntelliJ IDEA's bundled Maven)
-6. Project Structure
+
+**6. Project Structure**
+
 MathWhiz/
 ├── src/main/java/
 │   ├── controller/GameServlet.java      # request handling
